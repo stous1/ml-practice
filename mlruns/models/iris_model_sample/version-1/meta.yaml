@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1739635517186
+current_stage: None
+description: ''
+last_updated_timestamp: 1739635517186
+name: iris_model_sample
+run_id: c2d7f4a805e745e0aa00b17cc5a11661
+run_link: ''
+source: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/c2d7f4a805e745e0aa00b17cc5a11661/artifacts/modelo_GBM_grid_1_AutoML_1_20250215_105636_model_1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/c2d7f4a805e745e0aa00b17cc5a11661/artifacts/modelo_GBM_grid_1_AutoML_1_20250215_105636_model_1
+user_id: null
+version: 1

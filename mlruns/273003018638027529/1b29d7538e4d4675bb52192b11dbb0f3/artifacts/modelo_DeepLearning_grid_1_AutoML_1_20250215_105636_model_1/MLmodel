@@ -1,0 +1,18 @@
+artifact_path: modelo_DeepLearning_grid_1_AutoML_1_20250215_105636_model_1
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.6
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.9.12
+mlflow_version: 2.20.2
+model_size_bytes: 70479
+model_uuid: efa324d085ea452e9aa9e05a0e28bfce
+run_id: 1b29d7538e4d4675bb52192b11dbb0f3
+utc_time_created: '2025-02-15 15:57:45.449281'

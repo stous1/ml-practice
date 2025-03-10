@@ -1,0 +1,18 @@
+artifact_path: modelo_XRT_1_AutoML_1_20250215_105636
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.6
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.9.12
+mlflow_version: 2.20.2
+model_size_bytes: 131922
+model_uuid: 3be141ddb69347be92c0d350c320f7a8
+run_id: 17b2f8f565f04e939a39220f7ae2d653
+utc_time_created: '2025-02-15 15:59:14.228796'

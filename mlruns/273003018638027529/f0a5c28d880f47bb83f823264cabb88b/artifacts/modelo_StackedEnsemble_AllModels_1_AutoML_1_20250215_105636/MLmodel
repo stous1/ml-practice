@@ -1,0 +1,18 @@
+artifact_path: modelo_StackedEnsemble_AllModels_1_AutoML_1_20250215_105636
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.6
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.9.12
+mlflow_version: 2.20.2
+model_size_bytes: 2729030
+model_uuid: 9df777b9e0b94f87b2541a60eaae0bde
+run_id: f0a5c28d880f47bb83f823264cabb88b
+utc_time_created: '2025-02-15 15:58:44.556617'

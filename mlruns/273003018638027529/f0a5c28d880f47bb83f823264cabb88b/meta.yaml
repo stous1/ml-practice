@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/f0a5c28d880f47bb83f823264cabb88b/artifacts
+end_time: 1739635154098
+entry_point_name: ''
+experiment_id: '273003018638027529'
+lifecycle_stage: active
+run_id: f0a5c28d880f47bb83f823264cabb88b
+run_name: Model_StackedEnsemble_AllModels_1_AutoML_1_20250215_105636
+run_uuid: f0a5c28d880f47bb83f823264cabb88b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739635124491
+status: 3
+tags: []
+user_id: sergi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/5d5dea31915149868fa3fef1a14ba180/artifacts
+end_time: 1739635302428
+entry_point_name: ''
+experiment_id: '273003018638027529'
+lifecycle_stage: active
+run_id: 5d5dea31915149868fa3fef1a14ba180
+run_name: Model_GBM_3_AutoML_1_20250215_105636
+run_uuid: 5d5dea31915149868fa3fef1a14ba180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739635272070
+status: 3
+tags: []
+user_id: sergi

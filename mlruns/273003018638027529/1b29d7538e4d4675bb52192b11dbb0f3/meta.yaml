@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/1b29d7538e4d4675bb52192b11dbb0f3/artifacts
+end_time: 1739635094891
+entry_point_name: ''
+experiment_id: '273003018638027529'
+lifecycle_stage: active
+run_id: 1b29d7538e4d4675bb52192b11dbb0f3
+run_name: Model_DeepLearning_grid_1_AutoML_1_20250215_105636_model_1
+run_uuid: 1b29d7538e4d4675bb52192b11dbb0f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739635065363
+status: 3
+tags: []
+user_id: sergi

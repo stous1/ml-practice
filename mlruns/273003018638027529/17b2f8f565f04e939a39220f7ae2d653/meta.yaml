@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sergi/projects/ml-practice/mlruns/273003018638027529/17b2f8f565f04e939a39220f7ae2d653/artifacts
+end_time: 1739635183478
+entry_point_name: ''
+experiment_id: '273003018638027529'
+lifecycle_stage: active
+run_id: 17b2f8f565f04e939a39220f7ae2d653
+run_name: Model_XRT_1_AutoML_1_20250215_105636
+run_uuid: 17b2f8f565f04e939a39220f7ae2d653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739635154153
+status: 3
+tags: []
+user_id: sergi

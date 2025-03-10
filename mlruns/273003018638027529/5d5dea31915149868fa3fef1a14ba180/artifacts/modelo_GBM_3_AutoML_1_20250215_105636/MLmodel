@@ -1,0 +1,18 @@
+artifact_path: modelo_GBM_3_AutoML_1_20250215_105636
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.6
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.9.12
+mlflow_version: 2.20.2
+model_size_bytes: 169403
+model_uuid: 075bda6b0ffe478f879f9f45bda44228
+run_id: 5d5dea31915149868fa3fef1a14ba180
+utc_time_created: '2025-02-15 16:01:12.154672'
