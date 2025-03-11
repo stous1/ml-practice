@@ -1,0 +1,101 @@
+prod_name,true_category,true_subcategory,predicted_category,predicted_subcategory,confidence,correct
+Piña En Rodajas ,Despensa,Enlatados y conservas,Despensa,Enlatados y conservas,100.0,True
+Aperitivo Aperol botella ,Vinos y Licores,Aperitivos,Vinos y Licores,Aperitivos,100.0,True
+Esmalte Masglo ejecutiva secado rápido  ,Belleza,Maquillaje,Belleza,Maquillaje,100.0,True
+Harina Carolina arroz ,Despensa,Harinas y mezclas para preparar,Despensa,Harinas y mezclas para preparar,100.0,True
+Ron Santafe añejo 4 años ,Vinos y Licores,Ron,Vinos y Licores,Ron,100.0,True
+Cerveza Hollandia botella ,Vinos y Licores,Cervezas,Vinos y Licores,Cervezas,100.0,True
+Café Buendia Descafeinado Frasco ,Despensa,Café,Despensa,Café,100.0,True
+Cerveza Störtebeker Pilsener-Bier Botella ,Vinos y Licores,Cervezas,Vinos y Licores,Cervezas,100.0,True
+Pan 8 granos ,Panadería y Pastelería,Panadería Artesanal,Panadería y Pastelería,Panadería Artesanal,100.0,True
+Yogurt slight ,"Lácteos, huevos y refrigerados",Yogurt,"Lácteos, huevos y refrigerados",Yogurt,100.0,True
+Snacks Hatsu mani sal himalaya ,Pasabocas,Frutos Secos,Pasabocas,Frutos Secos,100.0,True
+Galletas Butter Crisp Jules Destrooper Cj ,Pasabocas,Galletas dulces,Pasabocas,Galletas dulces,100.0,True
+Desinfectante Pinolina lavanda pague 1500 ml lleve 2000 ml,Aseo de hogar,Desinfectantes,Aseo de hogar,Desinfectantes,100.0,True
+Vino  tinto merlot clásico - Panul bot.x750ml,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Vino Blanco Canepa novisimo sauvignon blanc ,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Aperitivo Amaretto Convier ,Vinos y Licores,Aperitivos,Vinos y Licores,Aperitivos,100.0,True
+Jabón Corporal Nosotras Yogurt  ,Cuidado Personal,Jabones de tocador,Cuidado Personal,Jabones de tocador,100.0,True
+Toalla higiénica ellas nocturna ,Cuidado Personal,Protección Femenina,Cuidado Personal,Protección Femenina,100.0,True
+Panderitos Ramo ,Pasabocas,Galletas dulces,Pasabocas,Galletas dulces,100.0,True
+Pan Integral Bimbo ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Spray Niágara limón ,Cuidado de ropa y calzado,Prelavado y preplanchado,Cuidado de ropa y calzado,Prelavado y preplanchado,100.0,True
+Aromatizante Glade 5en1 alegría floral frutos rojos aerosol ,Aseo de hogar,Ambientadores,Aseo de hogar,Ambientadores,100.0,True
+Toallas de Cocina Familia Practi-diarias Jumbo Pack ,Limpieza de cocina,Servilletas y papel aluminio,Limpieza de cocina,Servilletas y papel aluminio,100.0,True
+Vino gourmet blanco ,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Crema dove nutrición intensiva ,Belleza,Cremas corporales,Belleza,Cremas corporales,100.0,True
+Maíz Peto ,Despensa,Arroz y granos,Despensa,Arroz y granos,100.0,True
+Yogurt deja mu leche nueces sin dulce ,"Lácteos, huevos y refrigerados",Yogurt,"Lácteos, huevos y refrigerados",Yogurt,100.0,True
+Esponjilla Scotch brite ,Limpieza de cocina,Esponjas y fibras,Limpieza de cocina,Esponjas y fibras,100.0,True
+tableta Chocolate lindt excellence 70% cocoa ,Dulces y postres,Chocolatería,Dulces y postres,Chocolatería,100.0,True
+Esponja scotch brite mango dispensador jabón ,Limpieza de cocina,Esponjas y fibras,Limpieza de cocina,Esponjas y fibras,100.0,True
+Aritos quaker chocolate ,Despensa,Cereales,Despensa,Cereales,100.0,True
+Desodorante Bond Street ,Cuidado Personal,Desodorantes,Cuidado Personal,Desodorantes,100.0,True
+Salsa lista tomate vegetales huerto Doria ,Despensa,Salsas y vinagres,Despensa,Salsas y vinagres,100.0,True
+Aguardiente néctar ,Vinos y Licores,Aguardiente,Vinos y Licores,Aguardiente,100.0,True
+Panque Vainilla Bimbo ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Queso San Martín griego untar albahaca ,"Lácteos, huevos y refrigerados",Queso,"Lácteos, huevos y refrigerados",Queso,100.0,True
+Base Vitu endurecedora unas  ,Belleza,Maquillaje,Belleza,Maquillaje,100.0,True
+Clorox Blancos Intensos ,Aseo de hogar,Blanqueadores,Aseo de hogar,Blanqueadores,100.0,True
+Vino Valdivieso barrel selection chardonnay ,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Vino Trapiche cabernet roble ,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Mezcla manzanilla miel jengibre Hindu ,Despensa,"Té, infusiones e instantáneos",Despensa,"Té, infusiones e instantáneos",100.0,True
+Pan 3 granos con linaza pan factory ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Trozos de Chocolate Snickers 124.6 g,Dulces y postres,Chocolatería,Dulces y postres,Chocolatería,100.0,True
+Mezcla Colorey colorantes zipper ,Despensa,"Condimentos, caldos y sal",Despensa,"Condimentos, caldos y sal",100.0,True
+Palitos Palokitos limón ,Pasabocas,Papas fritas y paquetes,Pasabocas,Papas fritas y paquetes,100.0,True
+Chocolate Josephine Belga toque leche caramelo flor sal ,Dulces y postres,Chocolatería,Dulces y postres,Chocolatería,100.0,True
+Papas JBO limón ,Pasabocas,Papas fritas y paquetes,Pasabocas,Papas fritas y paquetes,100.0,True
+Pistacho ,Pasabocas,Frutos Secos,Pasabocas,Frutos Secos,100.0,True
+Desodorante roll on Dove original ,Cuidado Personal,Desodorantes,Cuidado Personal,Desodorantes,100.0,True
+Aromatizante Glade actes pop fruta liquido repuesto ,Aseo de hogar,Ambientadores,Aseo de hogar,Ambientadores,100.0,True
+Mayonesa Fruco baja en grasa ,Despensa,Salsas y vinagres,Despensa,Salsas y vinagres,100.0,True
+Bebida lipton té frío durazno ,Bebidas,Té líquido,Bebidas,Té líquido,100.0,True
+Salchicha Pietrán pechuga pollo ,"Lácteos, huevos y refrigerados",Carnes frías y embutidos,"Lácteos, huevos y refrigerados",Carnes frías y embutidos,100.0,True
+Maquina afeitar hydro5 men Schick ,Cuidado Personal,Afeitado,Cuidado Personal,Afeitado,100.0,True
+Palomitas de maíz Planet Pop sabor extramantequilla ,Pasabocas,Pasabocas para microondas,Pasabocas,Pasabocas para microondas,100.0,True
+Mezcla ,Despensa,Salsas y vinagres,Despensa,Salsas y vinagres,100.0,True
+Antitranspirante Rexona men clinical clean roll on ,Cuidado Personal,Desodorantes,Cuidado Personal,Desodorantes,100.0,True
+Vino Undurraga late harvest reserva ,Vinos y Licores,Vino,Vinos y Licores,Vino,100.0,True
+Desinfectante Sanpic lavandax1500 ml+ gratis 500 ml,Aseo de hogar,Desinfectantes,Aseo de hogar,Desinfectantes,100.0,True
+Jamón Nico jamonés Jamonero + cuchillo,Charcutería,Carnes frías maduradas y ahumadas,Charcutería,Carnes frías maduradas y ahumadas,100.0,True
+Yogurt San Martín griego chía frutos rojos ,"Lácteos, huevos y refrigerados",Yogurt,"Lácteos, huevos y refrigerados",Yogurt,100.0,True
+Jabón en barra de coco prendas delicadas ,Cuidado de ropa y calzado,Jabones de Barra,Cuidado de ropa y calzado,Jabones de Barra,100.0,True
+Galleta Fusión de Cereales Tosh ,Pasabocas,Galletas dietéticas y saludables,Pasabocas,Galletas dietéticas y saludables,100.0,True
+Esmalte Vogue fantastic blanco armino ,Belleza,Maquillaje,Belleza,Maquillaje,100.0,True
+Clorox Floral ,Aseo de hogar,Blanqueadores,Aseo de hogar,Blanqueadores,100.0,True
+Betún autobrillante blanco ,Cuidado de ropa y calzado,Betún,Cuidado de ropa y calzado,Betún,100.0,True
+Aguardiente Nectar club ,Vinos y Licores,Aguardiente,Vinos y Licores,Aguardiente,100.0,True
+Avena Alquería autentica ,"Lácteos, huevos y refrigerados",Avena,"Lácteos, huevos y refrigerados",Avena,100.0,True
+Aceitunas Jalkidikis Verdes Olymp ,Despensa,Enlatados y conservas,Despensa,Enlatados y conservas,100.0,True
+Gaseosa postobon manzana ,Bebidas,Gaseosas,Bebidas,Gaseosas,100.0,True
+Pasabocas Fritolay super lonchera surtido ,Pasabocas,Papas fritas y paquetes,Pasabocas,Papas fritas y paquetes,100.0,True
+Panela Doña Panela frutas frescas ,Despensa,"Azúcar, Endulzantes y Panelas",Despensa,"Azúcar, Endulzantes y Panelas",100.0,True
+Pan pan elcountry tajado multicereal fibra ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Brillo Manteca de Karité Vitú Toronja,Belleza,Maquillaje,Belleza,Maquillaje,100.0,True
+Ramito Tradicional ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Esponja Scotch brite cocina pague2lleve 3 und,Limpieza de cocina,Esponjas y fibras,Limpieza de cocina,Esponjas y fibras,100.0,True
+Granola ,Despensa,Cereales,Despensa,Cereales,100.0,True
+Esmalte Lander fashion colors tono 33 ,Belleza,Maquillaje,Belleza,Maquillaje,100.0,True
+Linaza ,Pasabocas,Frutos Secos,Pasabocas,Frutos Secos,100.0,True
+Torta piña y coco ,Panadería y Pastelería,Antojos,Panadería y Pastelería,Antojos,100.0,True
+Café Cappuccino Mocca Colcafé ,Despensa,Café,Despensa,Café,100.0,True
+Jabón intimo secretos natural salvia caléndula Intibon ,Cuidado Personal,Protección Femenina,Cuidado Personal,Protección Femenina,100.0,True
+Pistacho Manitoba ,Pasabocas,Frutos Secos,Pasabocas,Frutos Secos,100.0,True
+Rollo helado frutos bosque Colombina ,Productos Congelados,Helados,Productos Congelados,Helados,100.0,True
+Pluma removedora de manchas instantanea Tide To Go ,Cuidado de ropa y calzado,Desmanchadores,Cuidado de ropa y calzado,Desmanchadores,100.0,True
+Lysol spray desinfectante brisa de verano ,Aseo de hogar,Desinfectantes,Aseo de hogar,Desinfectantes,100.0,True
+Tableta Chocolate Con Avellana Karina ,Dulces y postres,Chocolatería,Dulces y postres,Chocolatería,100.0,True
+Prelavado Máxima ,Cuidado de ropa y calzado,Prelavado y preplanchado,Cuidado de ropa y calzado,Prelavado y preplanchado,100.0,True
+Duraznos Almíbar Mitades Monteagle ,Despensa,Enlatados y conservas,Despensa,Enlatados y conservas,100.0,True
+Protectores Diarios Nosotras Natural Respirable  ,Cuidado Personal,Protección Femenina,Cuidado Personal,Protección Femenina,100.0,True
+Tostaditas integrales El country ,Panadería y Pastelería,Panadería empacada,Panadería y Pastelería,Panadería empacada,100.0,True
+Nuggets coma ,Productos Congelados,Apanados,Productos Congelados,Apanados,100.0,True
+Chocolate kínder sorpresa niña ,Dulces y postres,Chocolatería,Dulces y postres,Chocolatería,100.0,True
+Lysol Aerosol Spring Water Falls 12.5Oz,Aseo de hogar,Desinfectantes,Aseo de hogar,Desinfectantes,100.0,True
+Galleta Chocomix Festival ,Pasabocas,Galletas dulces,Pasabocas,Galletas dulces,100.0,True
+Salsa La Constancia vinagreta ,Despensa,Salsas y vinagres,Despensa,Salsas y vinagres,100.0,True
+Galletas mantequilla Saltinas 3 tacos ,Pasabocas,Galletas saladas,Pasabocas,Galletas saladas,100.0,True
+Maíz peto Maritza premium ,Despensa,Arroz y granos,Despensa,Arroz y granos,100.0,True
+Helado Popsy Oreo Gourmet ,Productos Congelados,Helados,Productos Congelados,Helados,100.0,True
+Pasta Clásica Concha Doria ,Despensa,Pastas,Despensa,Pastas,100.0,True
